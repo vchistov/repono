@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net8.0</TargetFrameworks>
+    <RootNamespace>Repono</RootNamespace>
+
+    <IsPackable>true</IsPackable>
+    <PackageId>$(AssemblyName)</PackageId>    
+    <Description>The Repository software design pattern implementation based on CQS principle using .NET source generators.</Description>
+  </PropertyGroup>
+</Project>

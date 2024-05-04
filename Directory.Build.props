@@ -1,0 +1,18 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>  
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/vchistov/repono</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/vchistov/repono</RepositoryUrl>
+    <PackageTags>repository cqs cqrs mediator sourcegenerator C# .NET dotnet</PackageTags>
+    <RepositoryType>git</RepositoryType>
+    <Authors>Victor Chistov</Authors>
+    <Copyright>Copyright 2024 Victor Chistov</Copyright>
+  </PropertyGroup>
+</Project>
